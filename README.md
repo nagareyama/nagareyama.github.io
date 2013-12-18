@@ -1,6 +1,6 @@
-# 俺のゼニはどこ行った for 横浜
+# 私達のゼニはどこ行った for 流山市
 
-wheredoesmymoney.orgの横浜バージョンです．
+wheredoesmymoney.orgの流山市バージョンです．
 
 http://spending.jp/ で稼働しているサイトのソースコードです。
 
