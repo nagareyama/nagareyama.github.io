@@ -10,7 +10,7 @@ Taxes.taxRate = 0.06; // 住民税率
 
 var OpenSpending = OpenSpending || {};
 
-OpenSpending.identifier = 'nagareyama_h25_yosan_00';
+OpenSpending.identifier = 'nagareyama_2013_yosan_00';
 OpenSpending.year = '2013';
 
 OpenSpending.Styles = OpenSpending.Styles || {};
