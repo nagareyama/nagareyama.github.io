@@ -18,7 +18,7 @@ OpenSpending.Styles = OpenSpending.Styles || {};
 OpenSpending.Styles.Cofog = {
 
   /* nagareyama cofog */
-  '1': { icon: 'icons/helping-others.svg', color: '#C75746', bcolor: '#935B3B' },
+  '1': { icon: 'icons/government.svg', color: '#C75746', bcolor: '#935B3B' },
   '1-1': { icon: 'icons/helping-others.svg', color: '#C75746', bcolor: '#935B3B' },
   '2': { icon: 'icons/schools.svg', color: '#C75746', bcolor: '#0AB971' },
   '2-1': { icon: 'icons/pre-school.svg', color: '#C75746', bcolor: '#0AB971' },
@@ -26,7 +26,7 @@ OpenSpending.Styles.Cofog = {
   '3': { icon: 'icons/economy-tourism.svg', color: '#C75746', bcolor: '#4E6D00' },
   '3-1': { icon: 'icons/dollar.svg', color: '#C75746', bcolor: '#4E6D00' },
   '3-2': { icon: 'icons/harbor.svg', color: '#C75746', bcolor: '#4E6D00' },
-  '3-3': { icon: 'icons/culture.svg', color: '#C75746', bcolor: '#4E6D00' },
+  '3-3': { icon: 'icons/helping-others.svg', color: '#C75746', bcolor: '#4E6D00' },
   '4': { icon: 'icons/our-streets.svg', color: '#C75746', bcolor: '#D33673' },
   '4-1': { icon: 'icons/farms.svg', color: '#C75746', bcolor: '#D33673' },
   '4-2': { icon: 'icons/street-lights.svg', color: '#C75746', bcolor: '#D33673' },
