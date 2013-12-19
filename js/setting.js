@@ -18,12 +18,12 @@ OpenSpending.Styles = OpenSpending.Styles || {};
 OpenSpending.Styles.Cofog = {
 
   /* nagareyama cofog */
-  '1': { color: '#7fff00', bcolor: '#935B3B',icon: 'icons/civilian-action.svg' },
-  '1-1': { color: '#7fff00', bcolor: '#935B3B',icon: 'icons/civilian-action.svg' },
-  '2': { icon: 'icons/publicaffairs.svg', color: '#7fff00', bcolor: '#0AB971' },
-  '2-1': { icon: 'icons/publicaffairs.svg', color: '#7fff00', bcolor: '#0AB971' },
-  '2-2': { icon: 'icons/publicaffairs.svg', color: '#7fff00', bcolor: '#0AB971' },
-  '2-3': { icon: 'icons/publicaffairs.svg', color: '#7fff00', bcolor: '#0AB971' },
+  '1': { color: '#7FFF00', bcolor: '#935B3B',icon: 'icons/civilian-action.svg' },
+  '1-1': { color: '#7FFF00', bcolor: '#935B3B',icon: 'icons/civilian-action.svg' },
+  '2': { icon: 'icons/publicaffairs.svg', color: '#7FFF00', bcolor: '#0AB971' },
+  '2-1': { icon: 'icons/publicaffairs.svg', color: '#7FFF00', bcolor: '#0AB971' },
+  '2-2': { icon: 'icons/publicaffairs.svg', color: '#7FFF00', bcolor: '#0AB971' },
+  '2-3': { icon: 'icons/publicaffairs.svg', color: '#7FFF00', bcolor: '#0AB971' },
   '2-4': { icon: 'icons/publicaffairs.svg', color: '#7fff00', bcolor: '#0AB971' },
   '2-5': { icon: 'icons/publicaffairs.svg', color: '#7fff00', bcolor: '#0AB971' },
   '2-6': { icon: 'icons/publicaffairs.svg', color: '#7fff00', bcolor: '#0AB971' },
